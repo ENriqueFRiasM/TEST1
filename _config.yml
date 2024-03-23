@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=R3GAd3sAAAAJ&hl=es"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5348-3120"
+  pubmed           : ""
+  researchgate     : "https://www.researchgate.net/profile/Enrique-Frias-Martinez"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
