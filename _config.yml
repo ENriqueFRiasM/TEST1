@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Enrique Frias-Martinez"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Principal Researcher UNIR-iTED. MSC Biomedical Engineering UCLA, PhD CS UPM"
+  location         : "Madrid"
+  employer         : "UNIR"
   uri              : # URL
   email            : "none@example.org" 
 
