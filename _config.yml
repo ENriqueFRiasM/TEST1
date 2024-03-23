@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.png"
+  avatar           : "images/image.png"
   name             : "Enrique Frias-Martinez"
   pronouns         : # example: "she/her"  
   bio              : "Principal Researcher UNIR-iTED. MSc Biomedical Engineering UCLA, PhD CS UPM"
