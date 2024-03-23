@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Principal Researcher UNIR-iTED. MSC Biomedical Engineering UCLA, PhD CS UPM"
   location         : "Madrid"
-  employer         : " Research Institute for Innovation and Technology in Education (UNIR iTED)"
+  employer         : "UNIR iTED"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "friasmartinezenrique@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/enriquefrias/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
