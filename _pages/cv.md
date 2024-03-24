@@ -56,19 +56,19 @@ and results to the business groups. Patenting new methods. Presenting to the med
 
 * Brunel University, London, UK                                                                            Sep. 2003-Sep. 2006
     * Department of Information Systems & Computing
-    * Research Fellow. Activities:  Research leader in a project that studied and evaluated user behavior when interacting with the web. Key words: User Modeling, Machine Learning, Data Mining, Personalization.
+    * AHRB Research Fellow. Research leader in a project that modeled user behavior with Machine Learning techniques when interacting with digital libraries. Personalization of the interaction using psicological traits. 
 
-*New York University (NYU), New York City, NY, USA                             Sep. 2001-Aug. 2003
+* New York University (NYU), New York City, NY, USA                             Sep. 2001-Aug. 2003
     * Courant Institute of Mathematical Sciences, Department of Computer Science.
-    * MEC-Fulbright Postdoctoral Researcher. Activities: Leading research in data mining and user modeling for improving user experience when interacting with the Web. Keywords: Data Mining, Personalization.
+    * MEC-Fulbright Postdoctoral Researcher. Leading research in data mining and user modeling for improving user experience when interacting with the Web. Keywords: Data Mining, Personalization.
 
  * Texas A&M University, College Station, TX, USA                                         May 1999-Aug. 1999
     * Center for Fuzzy Logic, Robotics and Intelligent Systems (CFL)
-    *  Visiting Researcher. Activities: Applications of fuzzy logic and deployement of programmable fuzzy logic processors.
+    *  Visiting Researcher.  Applications of fuzzy logic and deployement of programmable fuzzy logic processors.
 
 * Universidad Politécnica de Madrid, Madrid, Spain                                  Sep. 1997-Aug. 2001
   * School of Computer Science
-  * FPI PhD Fellow. Activities:  Ph.D. Thesis in pattern recognition,  fuzzy logic, and fuzzy logic applications.
+  * FPI PhD Fellow.  Ph.D. Thesis in pattern recognition,  fuzzy logic, and fuzzy logic applications. The PhD Thesis proposses a compilation technique to work with an approximation of the control surfaces and acoiding used the set of fuzzy rules directly.
 
 * EADS-ASTRIUM-CRISA, Madrid, Spain                                                             Dec.1996-Jun. 1997
   * Aerospace Technology. Quality Engineer.
