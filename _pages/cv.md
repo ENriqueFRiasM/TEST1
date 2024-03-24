@@ -40,8 +40,15 @@ Work experience
     online and traditional courses. Designed the MSc degree in AI/Data Science from scratch.
 
 * Telefónica Research, Madrid, Spain                        April 2008-March 2021
-    * Researcher, AI Research Group
-    * Activities: ﻿ Lead research and prototyping in a variety of Big Data areas including mobility, user modelling, big data for social good, visualization of information  and urban computing. Big Data evangelist for the Business       Units of the Telefonica Group. Transfer of the algorithms & results to the engineering groups of Telefonica for the deployment in business units. Patenting the new methods and technologies developed. Presenting to the media and     other third parties (public institutions, international agencies) the results and social benefits of Big Data. Finding and defining collaborations with third parties for Big Data projects.
+    * Applied Researcher, Core Innovation, AI Group
+    * Lead research, prototyping and alpha versions in AI user-centered products including mobility, user modelling (gender, socieconomics, age, points of interest, routes), AI for social good and urban computing.
+Manage focused groups of engineers, and PhDs for the creation of new services. AI evangelist for the Telef´onica Group. Co-creation of new products with business units and/or transfer algorithms
+and results to the business groups. Patenting new methods. Presenting to the media and other third parties (public institutions, international agencies) the results and social benefits of AI. Some Projects:
+
+        * AI for IoT and Telco Networks - Client: TEF Tech Designed LSTM for identification of network status for maintenance prediction. Designed clustering techniques (GMM, SOM, spectral) for anomaly detection and behavioral         modeling of Movistar Car. Advanced Socioeconomic and Unemployment Prediction I developed cuttingedge ML models aimed at predicting socioeconomic levels and unemployment rates for both geographical areas and individuals. Prediction accuracy up to 90%. Systems were integrated into personalization platform, enhancing Telef´onica’s marketing strategies.
+        *  COVID19 Models - Client: LUCA Telefonica Data Unit Used mobility data from cell phone traces to run epidemiological models for prediction of the evolution of the pandemic. Results offered to the SEDIA as part of the Telefonica offer.
+        * Drivies - Client: Intrapreneurship product for Car Insurance Created a risk estimation model for drivers based on speed, points of interest, routes, accelearation and decelarion built on top of standard risk model to improve risk scoring. The model identified 5% more extra risky drivers.
+        * Tourists Estimation - Smart Steps O2 UK Estimation and prediction of number of tourists based on the roaming information of the network, including origin, areas of visits, time of stay.
 
 * University of California, Los Angeles (UCLA)                              Sep. 2006-March 2008
     * Biomedical Engineering Department, UCLA Medical Center
