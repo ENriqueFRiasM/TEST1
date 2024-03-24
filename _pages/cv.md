@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Universidad Politecnica de Madrid (UPM), Spain
+* Ph.D in Information Systems, Brunel University, London, UK
+* M.Sc. in Biomedical Engineering, University of California, Los Angeles (UCLA), USA
+* B.S. in Computer Engineering, Universidad de Valladolid, Valladolid, Spain
+
+Awards
+=====
+* Best Ph.D. Thesis Award in Computer Science- “Premio Extraordinario de Tesis Doctoral de la UPM”
+* Ph.D. Fellowship (Beca FPI) -  Spanish Commission for Scientific Research.  Feb. 97- Dec. 00.
+* Post-Doctoral MEC-Fulbright Fellowship -  Sep. 01 – Sep. 03
+* Ramon y Cajal Postdoctoral Fellowship (Granted for 5 Years - Declined)
+
 
 Work experience
 ======
@@ -41,24 +50,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
