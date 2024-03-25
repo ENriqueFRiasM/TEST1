@@ -10,17 +10,9 @@ redirect_from:
 
 * Our work on Modeling Migrations caused by Climate Change has been featured in the printed and online version of Muy Interesante magazine  (June 2018, Only in Spanish) [PDF]
 * I was interviewed by El Pais (spanish newspaper) regargind the application of cell phones to the chracterization of migrations: ["Los Moviles  Predicen Las Migraciones"](https://elpais.com/tecnologia/2018/07/04/actualidad/1530700909_275801.html), El Pais, July 5th 2018
-* My research in using cell phone traces to model virus spreading was featured in the Technological Section of El Pais: "La Vacuna contra las Epidemias se llama Big Data", El Pais, February 20th 2018
-
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* My research in using cell phone traces to model virus spreading was featured in the Technological Section of El Pais: ["La Vacuna contra las Epidemias se llama Big Data"](https://elpais.com/retina/2018/02/19/innovacion/1519039015_430916.html), El Pais, February 20th 2018
+* My paper  "Modeling human migration patterns during drought conditions in La Guajira, Colombia" has been featured among others in in [Science Daily](https://www.sciencedaily.com/releases/2018/06/180628120053.htm),  Phys.org,  Earth.com, Electronics 360,  SINC La CIencia es Noticia, El Tiempo (most important Colombian paper)
+*
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
