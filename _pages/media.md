@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Media Impact & Invited Talks"
 author_profile: true
 redirect_from: 
   - /media/
