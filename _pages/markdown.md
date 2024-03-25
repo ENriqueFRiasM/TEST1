@@ -1,26 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Media Impact"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Our work on Modeling Migrations caused by Climate Change has been featured in the printed and online version of Muy Interesante magazine  (June 2018, Only in Spanish) [PDF]
+* I was interviewed by El Pais (spanish newspaper) regargind the application of cell phones to the chracterization of migrations: ["Los Moviles  Predicen Las Migraciones"](https://elpais.com/tecnologia/2018/07/04/actualidad/1530700909_275801.html), El Pais, July 5th 2018
+* My research in using cell phone traces to model virus spreading was featured in the Technological Section of El Pais: "La Vacuna contra las Epidemias se llama Big Data", El Pais, February 20th 2018
+
 
 ## Tips and hints
 
