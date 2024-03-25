@@ -1,6 +1,6 @@
 s---
 permalink: /markdown/
-title: "Media Impact and Invited Talks"
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
